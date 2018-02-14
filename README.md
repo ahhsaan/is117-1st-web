@@ -9,4 +9,4 @@ The steps to complete the next assignment are:
 5. Commit changes and push back to Github
 
 
-Now there are more things to do
+Now there are more things to do.
